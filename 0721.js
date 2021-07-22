@@ -17,6 +17,7 @@ for (var i = 0; i < list.length; i++){
     if(list[i] % 5 == 0){
         list[i] = "Buzz"
     }
+    console.log(list)
 }
 
 
